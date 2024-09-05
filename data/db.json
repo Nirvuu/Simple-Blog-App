@@ -1,0 +1,23 @@
+{
+  "blogs": [
+    {
+      "title": "Marvel",
+      "body": "Why do we use it?\nMarvel Comics, founded in 1939 as Timely Publications, is a cornerstone of the comic book industry and pop culture. It has evolved into one of the most influential comic book publishers, renowned for its vibrant characters and intricate storytelling. Marvel's universe is home to iconic superheroes such as Spider-Man, Iron Man, Thor, and the X-Men, each with their unique powers and compelling backstories. \n\n\nWhere does it come from?\nMarvel's rich history is rooted in a legacy of creative storytelling. The Marvel Universe was created by legends like Stan Lee, Jack Kirby, and Steve Ditko, who introduced characters that would become cultural phenomena. The interconnected storylines across various series and the concept of a shared universe were revolutionary, setting Marvel apart from its competitors. Over the decades, Marvel's characters have appeared in countless comic books, television shows, and blockbuster films, creating a global fanbase.\n\n\nWhat is its impact?\nMarvel's influence extends beyond comic books into mainstream media. The Marvel Cinematic Universe (MCU), which began with Iron Man in 2008, has become a global phenomenon, producing a series of interconnected films that have captivated audiences worldwide. Marvel's commitment to diverse storytelling and character development has resonated with fans of all ages, making its characters timeless and relevant. Whether through comics, movies, or merchandise, Marvel continues to shape modern pop culture.",
+      "author": "Marvel Fan",
+      "id": "1"
+    },
+    {
+      "title": "DC",
+      "body": "Why do we use it?\nDC Comics, established in 1934 as National Allied Publications, is another pillar of the comic book industry with a rich legacy of superhero storytelling. Known for its darker, more mythological approach, DC is home to legendary characters like Superman, Batman, Wonder Woman, and The Flash. These characters have become symbols of heroism and justice, each with their complex narratives and distinct personalities.\n\n\nWhere does it come from?\nDC's origins are deeply intertwined with American comic book history. The creation of Superman by Jerry Siegel and Joe Shuster in 1938 marked the birth of the superhero genre and set the stage for DC's future success. Over the years, DC has expanded its universe with intricate storylines and major events like Crisis on Infinite Earths, which redefined its characters and continuity. DC's commitment to storytelling has produced influential works and iconic characters that continue to inspire and entertain.\n\n\nWhat is its impact?\nDC's impact on pop culture is profound, with its characters becoming symbols of heroism and justice. The DC Extended Universe (DCEU), starting with Man of Steel in 2013, has brought its iconic characters to the big screen, creating a cinematic universe that complements its comic book legacy. DC's influence extends into television, animation, and merchandise, with a dedicated fanbase that spans generations. Its stories and characters continue to be celebrated and explored across various media, maintaining its position as a leading force in entertainment.",
+      "author": "DC Fan",
+      "id": "2"
+    },
+    {
+      
+      "title": "Anthopolgy Series",
+      "body": "An anthology series is a written series, radio, television, film, or video game series that presents a different story and a different set of characters in each different episode, season, segment, or short.[1] These usually have a different cast in each episode, but several series in the past, such as Four Star Playhouse, employed a permanent troupe of character actors who would appear in a different drama each week.[2] Some anthology series, such as Studio One, began on radio and then expanded to television.[3]",
+      "author": "True Detective Fan",
+      "id": "3"
+    }
+  ]
+}
